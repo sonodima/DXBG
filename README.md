@@ -2,7 +2,7 @@
 <p>
 </p>
 
-> Simple proof of concept for using Direct3D to draw over the background.
+> Simple proof of concept that uses Direct3D to draw over the background.
 
 ### How does it work?
 
@@ -13,7 +13,7 @@
 * Initializes Direct3D
 * Shows window and set its parent to WorkerW's handle
   
-### Sample usage (bouncing square)
+### Sample usage
 
 ```cpp
 int x = 1;
