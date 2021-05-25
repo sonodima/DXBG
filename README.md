@@ -1,4 +1,4 @@
-<h1 align="center">DXBG 🌃</h1>
+<h1 align="center">dxbg 🌃</h1>
 <p>
 </p>
 
